@@ -30,7 +30,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 [Video Part 1](https://youtu.be/dOsfHHzpEsQ)
 [Video Part 2](https://youtu.be/0exFCJG0a5Y)
 #### Context Guide
-[Video](https://youtu.be/0exFCJG0a5Y)
+[Video](https://youtu.be/TQEgeliWQKc)
 
 #### License
 MIT
